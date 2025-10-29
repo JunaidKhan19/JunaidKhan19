@@ -41,14 +41,6 @@ Git, GitHub, Postman, Cloudinary, JWT, Visual Studio, VS Code
 🛍️ A full-featured e-commerce web app with authentication, admin panel, and cart system.  
 → [View Project](https://github.com/JunaidKhan19/ShopManagementApp)
 
-🔹 **Video Platform (MERN + Redux Toolkit)**  
-🎥 YouTube-like app with comments, likes/dislikes, and replies using async thunks.  
-→ [View Project](https://github.com/JunaidKhan19/VideoApp)
-
-🔹 **Tweet Clone (MERN)**  
-🐦 Combines Tweet + Video features with interactive UI.  
-→ [View Project](https://github.com/JunaidKhan19/TweetClone)
-
 ---
 
 ## 📊 GitHub Stats
