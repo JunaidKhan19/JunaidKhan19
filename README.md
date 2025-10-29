@@ -37,9 +37,9 @@ Git, GitHub, Postman, Cloudinary, JWT, Visual Studio, VS Code
 
 ## 💼 Featured Projects
 
-🔹 **Shop Management App (MERN Stack)**  
-🛍️ A full-featured e-commerce web app with authentication, admin panel, and cart system.  
-→ [View Project](https://github.com/JunaidKhan19/ShopManagementApp)
+🔹 **Simple BurgerShop App (Node.js and Express.js)**  
+🛍️ A simple web app with x-or based authentication, admin panel, user panel, cart & bill, orders preview.  
+→ [View Project](https://github.com/JunaidKhan19/creatingservers/tree/main/BurgerShop)
 
 ---
 
