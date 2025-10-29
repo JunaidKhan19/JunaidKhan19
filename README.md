@@ -8,11 +8,11 @@ Welcome to my GitHub! I'm passionate about building clean, scalable web applicat
 
 ## 🚀 About Me
 
-- 🔭 Currently building **MERN stack** projects with **JWT authentication**, **Cloudinary**, and **Redux Toolkit**  
+- 🔭 Currently building **MERN stack** projects with **JWT authentication**.  
 - 💡 Learning and working with **.NET (C#)** and **Java** to strengthen backend and OOP concepts  
 - 🧠 Exploring **Data Structures & Algorithms** in **JavaScript** for interview prep  
 - 🎯 Goal: Become a **Full Stack Developer** capable of designing complete web ecosystems  
-- 📫 Reach me at: **junaid.dev@example.com**
+- 📫 Reach me at: **khanjunaid1719@gmail.com**
 
 ---
 
