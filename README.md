@@ -9,8 +9,9 @@ Welcome to my GitHub! I'm passionate about building clean, scalable web applicat
 ## 🚀 About Me
 
 - 🔭 Currently building **MERN stack** projects with **JWT authentication**.  
+- 🎓 Currently pursuing **CDAC (PG-DAC)** at **Advanced Computing Training School (ACTS) – AIT YCC**.  
 - 💡 Learning and working with **.NET (C#)** and **Java** to strengthen backend and OOP concepts  
-- 🧠 Exploring **Data Structures & Algorithms** in **JavaScript** for interview prep  
+- 🧠 Exploring **Data Structures & Algorithms** in **Java** for interview prep  
 - 🎯 Goal: Become a **Full Stack Developer** capable of designing complete web ecosystems  
 - 📫 Reach me at: **khanjunaid1719@gmail.com**
 
@@ -38,7 +39,7 @@ Git, GitHub, Postman, Cloudinary, JWT, Visual Studio, VS Code
 ## 💼 Featured Projects
 
 🔹 **Simple BurgerShop App (Node.js and Express.js)**  
-🛍️ A simple web app with x-or based authentication, admin panel, user panel, cart & bill, orders preview.  
+🛍️ A simple web app with XOR-based authentication, admin panel, user panel, cart & bill, orders preview.  
 → [View Project](https://github.com/JunaidKhan19/creatingservers/tree/main/BurgerShop)
 
 ---
@@ -57,7 +58,7 @@ Git, GitHub, Postman, Cloudinary, JWT, Visual Studio, VS Code
 <p align="left">
   <a href="https://github.com/JunaidKhan19" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/junaidkhan19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:junaid.dev@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:khanjunaid1719@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
