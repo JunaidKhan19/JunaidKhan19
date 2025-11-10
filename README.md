@@ -77,9 +77,6 @@ Welcome to my GitHub! I'm passionate about building clean, scalable web applicat
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JunaidKhan19&show_icons=true&theme=tokyonight" alt="Junaid's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidKhan19&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=JunaidKhan19&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
