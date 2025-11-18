@@ -64,20 +64,33 @@ Welcome to my GitHub! I'm passionate about building clean, scalable web applicat
 
 ---
 
-## 💼 Featured Projects
+### ⭐ My Projects
+🍔 BurgerShop App (Node.js & Express.js)
 
-🔹 Simple BurgerShop App (Node.js & Express.js)
-🛍️ A simple web app with XOR-based authentication, admin & user panels, cart management, and order preview.
-👉 View Project
+🛒 Node.js + Express full-stack web app with authentication, cart, billing & order management.
 
-<a href="https://github.com/JunaidKhan19/creatingservers"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JunaidKhan19&repo=creatingservers&theme=tokyonight" /> </a>
+Tech Stack:
+Node.js · Express.js · HTML · CSS
 
-🔹 BlogWebApp (ASP.NET MVC)
-📰 A full-featured Blog Application built using ASP.NET MVC, Entity Framework, SQL Server & Razor Views.
-Includes authentication, CRUD posts, admin features, and a clean Bootstrap UI.
-👉 View Project
+📌 Preview Card:
+<a href="https://github.com/JunaidKhan19/creatingservers">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JunaidKhan19&repo=creatingservers&theme=tokyonight" />
+</a>
 
-<a href="https://github.com/JunaidKhan19/BlogWebApp"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JunaidKhan19&repo=BlogWebApp&theme=tokyonight" /> </a>
+
+✍️ BlogWebApp (ASP.NET Core MVC)
+
+📝 A complete blog system with authentication, CRUD posts, SQL Server, Entity Framework & clean UI.
+
+Tech Stack:
+ASP.NET Core MVC · C# · SQL Server · Entity Framework
+
+📌 Preview Card:
+<a href="https://github.com/JunaidKhan19/BlogWebApp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JunaidKhan19&repo=BlogWebApp&theme=tokyonight" />
+</a>
+
+🚧 More Projects Coming Soon...
 
 ---
 
