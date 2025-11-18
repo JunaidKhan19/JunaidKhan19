@@ -69,12 +69,14 @@ Welcome to my GitHub! I'm passionate about building clean, scalable web applicat
 🔹 Simple BurgerShop App (Node.js & Express.js)
 🛍️ A simple web app with XOR-based authentication, admin & user panels, cart management, and order preview.
 👉 View Project
+
 <a href="https://github.com/JunaidKhan19/creatingservers"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JunaidKhan19&repo=creatingservers&theme=tokyonight" /> </a>
 
 🔹 BlogWebApp (ASP.NET MVC)
 📰 A full-featured Blog Application built using ASP.NET MVC, Entity Framework, SQL Server & Razor Views.
 Includes authentication, CRUD posts, admin features, and a clean Bootstrap UI.
 👉 View Project
+
 <a href="https://github.com/JunaidKhan19/BlogWebApp"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JunaidKhan19&repo=BlogWebApp&theme=tokyonight" /> </a>
 
 ---
