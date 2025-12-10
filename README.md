@@ -95,12 +95,12 @@ ASP.NET Core MVC · C# · SQL Server · Entity Framework
 
 ## 📊 GitHub Stats
 
-<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunaidKhan19&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidKhan19&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JunaidKhan19&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
 
 </div>
 
