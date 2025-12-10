@@ -72,7 +72,6 @@ Welcome to my GitHub! I'm passionate about building clean, scalable web applicat
 Tech Stack:
 Node.js · Express.js · HTML · CSS
 
-📌 Preview Card:
 <a href="https://github.com/JunaidKhan19/creatingservers">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=JunaidKhan19&repo=creatingservers&theme=tokyonight" />
 </a>
@@ -85,7 +84,7 @@ Node.js · Express.js · HTML · CSS
 Tech Stack:
 ASP.NET Core MVC · C# · SQL Server · Entity Framework
 
-📌 Preview Card:
+
 <a href="https://github.com/JunaidKhan19/BlogWebApp">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=JunaidKhan19&repo=BlogWebApp&theme=tokyonight" />
 </a>
@@ -106,11 +105,21 @@ ASP.NET Core MVC · C# · SQL Server · Entity Framework
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/JunaidKhan19" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/junaidkhan19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:khanjunaid1719@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JunaidKhan19&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidKhan19&layout=compact&theme=tokyonight&cache_seconds=1800" 
+    height="165"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=JunaidKhan19&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="165"
+  />
 </p>
+
 
 ---
 ## 📈 Contribution Graph
