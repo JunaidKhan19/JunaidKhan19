@@ -99,7 +99,8 @@ ASP.NET Core MVC · C# · SQL Server · Entity Framework
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidKhan19&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JunaidKhan19&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=JunaidKhan19&theme=tokyonight&hide_border=true)
+
 
 
 </div>
